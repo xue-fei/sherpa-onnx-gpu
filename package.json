@@ -1,0 +1,21 @@
+{
+    "name": "com.xiaomi.sherpa-onnx-gpu",
+    "version": "2.0.1",
+    "displayName": "sherpa-onnx-gpu",
+    "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection.",
+    "author": {
+        "name": "xuefei",
+        "url": "https://www.xuefei.net.cn"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xue-fei/sherpa-onnx-gpu"
+    },
+    "keywords": [
+        "sherpa-onnx",
+        "unity",
+        "asr",
+		"tts"
+    ],
+    "license": "Apache-2.0"
+}
